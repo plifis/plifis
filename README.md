@@ -1,6 +1,10 @@
 ### Привет! 👋
 #### *Меня зовут Никита.*
 
+
+Мои проекты:
+* [Прогноз погоды] (https://github.com/plifis/weather_reactive)
+
 <!--
 **plifis/plifis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
