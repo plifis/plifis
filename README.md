@@ -8,7 +8,11 @@
 - AJAX;
 - Postgresql;
 - Hibernate;
-- Spring Framework (Spring MVC, Spring Data, Spring Security, Spring Boot)
+- Spring Framework (Spring MVC, Spring Data, Spring Security, Spring Boot);
+- Unit-testing (Mock);
+
+
+
 
 Мои проекты:
 * [Прогноз погоды](https://github.com/plifis/weather_reactive)
