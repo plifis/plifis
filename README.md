@@ -1,5 +1,5 @@
 ### Привет! 👋
-<h2>Меня зовут Никита Жулябин</h2>
+<h3>Меня зовут Никита Жулябин</h3>
 
 <!--
 **plifis/plifis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
