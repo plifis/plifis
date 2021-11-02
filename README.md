@@ -1,6 +1,14 @@
 ### Привет! 👋
 #### *Меня зовут Никита.*
 
+Я Java-разработчик.
+В основном использую следующий технологический стэк:
+- Java;
+- Servlets;
+- AJAX;
+- Postgresql;
+- Hibernate;
+- Spring Framework (Spring MVC, Spring Data, Spring Security, Spring Boot)
 
 Мои проекты:
 * [Прогноз погоды](https://github.com/plifis/weather_reactive)
