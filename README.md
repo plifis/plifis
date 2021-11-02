@@ -9,7 +9,8 @@
 - Postgresql;
 - Hibernate;
 - Spring Framework (Spring MVC, Spring Data, Spring Security, Spring Boot);
-- Unit-testing (Mock);
+- Maven;
+- Unit-testing (JUnit, Mock).
 
 
 
