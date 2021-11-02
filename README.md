@@ -24,20 +24,21 @@
 * [Сервис поиска работы](https://github.com/plifis/job4j_dreamjob)
 * [Автомаркет](https://github.com/plifis/job4j_cars)
 * [Список дел](https://github.com/plifis/job4j_todo)
+* [Парсинг Excel файла и разделение по требуемому количеству строк](https://github.com/plifis/excelSplit)
+* [Сервис бронирования билетов в кинотеатре](https://github.com/plifis/job4j_cinema)
+* [Парсер вакансий с Портала sql.ru](https://github.com/plifis/job4j_grabber)
+* [Парсинг заказов](https://github.com/plifis/parse_orders)
 * [Spring](https://github.com/plifis/job4j_spring)
 * [Hibernate](https://github.com/plifis/job4j_hibernate)
-* [Сервис бронирования билетов в кинотеатре](https://github.com/plifis/job4j_cinema)
 * [Threads](https://github.com/plifis/job4j_threads)
 * [Дизайн проектов](https://github.com/plifis/job4j_design)
 * [Асинхронная очередь](https://github.com/plifis/job4j_pooh)
-* [Парсинг](https://github.com/plifis/parse_orders)
 * [Учебные проекты](https://github.com/plifis/job4j_elementary)
-* [Парсер вакансий с Портала sql.ru](https://github.com/plifis/job4j_grabber)
 * [Примеры из учебника Хорстманна и некоторые задачи с CodeAbbey](https://github.com/plifis/projects)
 * [Реализации различных настольных игр(шахматы, морской бой)](https://github.com/plifis/games_oop_javafx)
 * [Расчет зп](https://github.com/plifis/salary)
-* [Подбор налоговогорежима на 2019 г.](https://github.com/plifis/nalog)
-* [Парсинг Excel файла и разделение по требуемому количеству строк](https://github.com/plifis/excelSplit)
+* [Подбор налогового режима на 2019 г.](https://github.com/plifis/nalog)
+
 
 
 
