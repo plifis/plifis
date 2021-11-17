@@ -13,7 +13,6 @@
 - ![](https://img.shields.io/badge/Unit--test-JUnit%2C%20Mock-yellow);
 - ![](https://img.shields.io/badge/Travis-CI-green).
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=plifis&hide=stars,prs,issues,contribs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plifis&layout=compact)](https://github.com/plifis/github-readme-stats)
 
 Мои проекты:
@@ -42,6 +41,7 @@
 * [Подбор налогового режима на 2019 г.](https://github.com/plifis/nalog)
 
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=plifis&hide=stars,prs,issues,contribs)
 
 
 
