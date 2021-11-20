@@ -16,13 +16,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plifis&layout=compact)](https://github.com/plifis/github-readme-stats)
 
 Мои проекты:
-* [Прогноз погоды](https://github.com/plifis/weather_reactive)
-* [Чат](https://github.com/plifis/chat)
-* [Трэкер](https://github.com/plifis/job4j_tracker)
-* [Форум](https://github.com/plifis/job4j_forum)
-* [Аутентификация](https://github.com/plifis/job4j_auth)
-* [Автоинциденты](https://github.com/plifis/job4j_car_accident)
-* [Сервис поиска работы](https://github.com/plifis/job4j_dreamjob)
+* [Прогноз погоды](https://github.com/plifis/weather_reactive) ![](https://img.shields.io/badge/Gradle-v.%206.7-lightgrey); ![](https://img.shields.io/badge/Spring-%20MVC%2C%20Data%2C%20Security%2C%20Boot-green); ![](https://img.shields.io/badge/%20WebFlux%2C%20-green)
+* [Чат](https://github.com/plifis/chat) ![](https://img.shields.io/badge/Spring-%20MVC%2C%20Data%2C%20Security%2C%20Boot%2C%20Rest%2C%20-green);
+* [Трэкер](https://github.com/plifis/job4j_tracker) ![](https://img.shields.io/badge/Java8-8%2B-orange);  ![](https://img.shields.io/badge/SQL-PostgreSQL-blue); ![](https://img.shields.io/badge/JPA-Hibernate-yellow); ![](https://img.shields.io/badge/Unit--test-JUnit%2C%20Mock-yellow);
+* [Форум](https://github.com/plifis/job4j_forum) ![](https://img.shields.io/badge/Spring-%20MVC%2C%20Data%2C%20Security%2C%20Boot-green); ![](https://img.shields.io/badge/Maven-3-red); ![](https://img.shields.io/badge/Unit--test-JUnit%2C%20Mock-yellow); ![](https://img.shields.io/badge/SQL-PostgreSQL-blue).
+* [Аутентификация](https://github.com/plifis/job4j_auth) ![](https://img.shields.io/badge/Spring-%20MVC%2C%20Data%2C%20Security%2C%20Boot-green); ![](https://img.shields.io/badge/Maven-3-red); ![](https://img.shields.io/badge/Unit--test-JUnit%2C%20Mock-yellow);
+* [Автоинциденты](https://github.com/plifis/job4j_car_accident) ![](https://img.shields.io/badge/Spring-%20MVC%2C%20Data%2C%20Security%2C%20Boot-green); ![](https://img.shields.io/badge/Unit--test-JUnit%2C%20Mock-yellow); ![](https://img.shields.io/badge/SQL-PostgreSQL-blue); ![](https://img.shields.io/badge/JPA-Hibernate-yellow);
+* [Сервис поиска работы](https://github.com/plifis/job4j_dreamjob) ![](https://img.shields.io/badge/Maven-3-red); ![](https://img.shields.io/badge/Unit--test-JUnit%2C%20Mock-yellow); ![](https://img.shields.io/badge/Servlets-Servlets-lightgrey); ![](https://img.shields.io/badge/SQL-PostgreSQL-blue);
 * [Автомаркет](https://github.com/plifis/job4j_cars)
 * [Список дел](https://github.com/plifis/job4j_todo)
 * [Парсинг Excel файла и разделение по требуемому количеству строк](https://github.com/plifis/excelSplit)
