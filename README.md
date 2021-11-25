@@ -3,7 +3,7 @@
 
 Я Java-разработчик.
 Мой основной технологический стэк:
-- ![](https://img.shields.io/badge/Java8-8%2B-orange); 
+- ![](https://img.shields.io/badge/Java-8%2B-orange); 
 - ![](https://img.shields.io/badge/Servlets-Servlets-lightgrey);
 - ![](https://img.shields.io/badge/AJAX-AJAX-red);
 - ![](https://img.shields.io/badge/SQL-PostgreSQL-blue);
